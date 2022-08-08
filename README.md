@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jay Kumar Gupta
 - 👀 I’m interested in Web Development and Programming.
-- 🌱 I’m currently learning Web development and JAVA.
+- 🌱 I’m currently learning Web development and DSA.
 - 💞️ I’m looking to collaborate on Web Projects.
 - 📫 You reach me through my Email.
 
